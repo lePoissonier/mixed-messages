@@ -1,0 +1,3 @@
+// quotes
+
+const quotes = []
