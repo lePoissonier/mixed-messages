@@ -10,3 +10,5 @@ For this project, you will build a message generator program. Every time a user 
 - JavaScript
 - Git and GitHub
 - Command line
+
+### Done ✓
